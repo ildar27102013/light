@@ -1,0 +1,45 @@
+.light {
+    height: 600px;
+    width: 300px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+.red {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: gray;
+}
+
+.red:hover {
+    background-color: red;
+}
+
+.yellow {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: gray;
+}
+.yellow:hover {
+    background-color: yellow;
+}
+
+.green {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: gray;
+}
+
+.green:hover {
+    background-color: green;
+}
+
+
